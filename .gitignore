@@ -8,3 +8,4 @@ __pycache__/
 1_month_DAM_forecast.csv
 1_month_RTM_forecast.csv
 1_month_Renewables_Act.csv
+weather_data.csv
